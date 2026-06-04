@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_hr_employee_labor_experience_user,hr.employee.labor.experience.user,model_hr_employee_labor_experience,hr.group_hr_user,1,1,1,1
+access_hr_employee_personal_reference_user,hr.employee.personal.reference.user,model_hr_employee_personal_reference,hr.group_hr_user,1,1,1,1
+access_hr_employee_education_record_user,hr.employee.education.record.user,model_hr_employee_education_record,hr.group_hr_user,1,1,1,1
+access_hr_employee_technical_study_user,hr.employee.technical.study.user,model_hr_employee_technical_study,hr.group_hr_user,1,1,1,1
